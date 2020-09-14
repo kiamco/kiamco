@@ -5,8 +5,11 @@
 ## What am I working on?
   
   There are a few things that I am currently working.
+  
   1.) an app that will help high school students connect with current college student so the can figure out which college to attend.
+  
   2.) An E-commerce application for indepedent fashion designers.
+  
   3.) a cart component for E-commerce websites.
   
 ## Get in Touch
