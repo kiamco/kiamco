@@ -6,11 +6,13 @@
   
   There are a few things that I am currently working.
   
-  1.) An app that will help high school students connect with current college student so the can figure out which college to attend.
+  1.) An app that will help high school students connect with current college student so the can figure out which college to attend. (app.unifind.ca)
   
   2.) An E-commerce application for indepedent fashion designers.
   
   3.) A microservice cart component for E-commerce websites.
+  
+  4.) P2P platform using the Stellar Ledger. This should help people regular and cross border transactions.
   
 ## Get in Touch
 
