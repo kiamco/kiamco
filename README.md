@@ -12,7 +12,7 @@
   
   3.) A microservice cart component for E-commerce websites.
   
-  4.) P2P platform using the Stellar Ledger. This should help people regular and cross border transactions.
+  4.) P2P platform using the Stellar Ledger. This should help people make regular and cross border transactions.
   
 ## Get in Touch
 
